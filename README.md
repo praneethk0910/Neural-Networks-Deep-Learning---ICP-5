@@ -1,6 +1,6 @@
 # Neural-Networks-Deep-Learning---ICP-5
 
-Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignment-5
+Spring 2024: CS5720: Neural Network Deep Learning: Programming Assignment-5
 
 Name: Praneeth Kumar  ID: 700747594
 
